@@ -3,8 +3,8 @@
     "name": "SIANA",
     "subtitle": "A Taste of Coffee",
     "description": "تجربه‌ای متفاوت از طعم قهوه و لحظه‌های خوشمزه",
-    "logo": "images/logo.jpg",
-    "background": "images/background.jpg",
+    "logo": "images/logo.webp",
+    "background": "images/background.webp",
     "currency": "تومان",
     "phone": "",
     "address": "",
@@ -46,7 +46,7 @@
       "name": "اسپرسو",
       "description": "قهوه غلیظ با عطر و طعم اصیل",
       "price": 85000,
-      "image": "images/products/espresso.jpg",
+      "image": "images/products/espresso.webp",
       "available": true,
       "featured": true
     },
@@ -56,7 +56,7 @@
       "name": "آمریکانو",
       "description": "اسپرسو همراه با آب داغ",
       "price": 105000,
-      "image": "images/products/americano.jpg",
+      "image": "images/products/americano.webp",
       "available": true,
       "featured": false
     },
@@ -66,7 +66,7 @@
       "name": "کاپوچینو",
       "description": "ترکیب اسپرسو، شیر و فوم شیر",
       "price": 145000,
-      "image": "images/products/cappuccino.jpg",
+      "image": "images/products/cappuccino.webp",
       "available": true,
       "featured": true
     },
@@ -76,7 +76,7 @@
       "name": "لاته",
       "description": "اسپرسو با شیر بخار داده شده",
       "price": 155000,
-      "image": "images/products/latte.jpg",
+      "image": "images/products/latte.webp",
       "available": true,
       "featured": true
     },
@@ -86,7 +86,7 @@
       "name": "موکا",
       "description": "ترکیب قهوه، شیر و شکلات",
       "price": 165000,
-      "image": "images/products/mocha.jpg",
+      "image": "images/products/mocha.webp",
       "available": true,
       "featured": false
     },
@@ -96,7 +96,7 @@
       "name": "کارامل ماکیاتو",
       "description": "اسپرسو، شیر و سیروپ کارامل",
       "price": 175000,
-      "image": "images/products/caramel-macchiato.jpg",
+      "image": "images/products/caramel-macchiato.webp",
       "available": true,
       "featured": false
     },
@@ -106,7 +106,7 @@
       "name": "آیس لاته",
       "description": "قهوه اسپرسو و شیر سرد همراه یخ",
       "price": 165000,
-      "image": "images/products/iced-latte.jpg",
+      "image": "images/products/iced-latte.webp",
       "available": true,
       "featured": true
     },
@@ -116,7 +116,7 @@
       "name": "آیس آمریکانو",
       "description": "اسپرسو و آب سرد همراه یخ",
       "price": 115000,
-      "image": "images/products/iced-americano.jpg",
+      "image": "images/products/iced-americano.webp",
       "available": true,
       "featured": false
     },
@@ -126,7 +126,7 @@
       "name": "آیس موکا",
       "description": "ترکیب قهوه، شکلات و شیر سرد",
       "price": 175000,
-      "image": "images/products/iced-mocha.jpg",
+      "image": "images/products/iced-mocha.webp",
       "available": true,
       "featured": false
     },
@@ -136,7 +136,7 @@
       "name": "لیموناد",
       "description": "نوشیدنی خنک با لیموی تازه",
       "price": 110000,
-      "image": "images/products/lemonade.jpg",
+      "image": "images/products/lemonade.webp",
       "available": true,
       "featured": false
     },
@@ -146,7 +146,7 @@
       "name": "موهیتو",
       "description": "ترکیب نعناع، لیمو و یخ",
       "price": 135000,
-      "image": "images/products/mojito.jpg",
+      "image": "images/products/mojito.webp",
       "available": true,
       "featured": true
     },
@@ -156,7 +156,7 @@
       "name": "چای سیاه",
       "description": "چای ایرانی با عطر دلنشین",
       "price": 65000,
-      "image": "images/products/black-tea.jpg",
+      "image": "images/products/black-tea.webp",
       "available": true,
       "featured": false
     },
@@ -166,7 +166,7 @@
       "name": "ماسالا چای",
       "description": "چای هندی با شیر و ادویه‌های معطر",
       "price": 135000,
-      "image": "images/products/masala-chai.jpg",
+      "image": "images/products/masala-chai.webp",
       "available": true,
       "featured": true
     },
@@ -176,7 +176,7 @@
       "name": "دمنوش گیاهی",
       "description": "ترکیبی از گیاهان معطر و طبیعی",
       "price": 95000,
-      "image": "images/products/herbal-tea.jpg",
+      "image": "images/products/herbal-tea.webp",
       "available": true,
       "featured": false
     },
@@ -186,7 +186,7 @@
       "name": "چیزکیک",
       "description": "کیک پنیر خامه‌ای با بافت لطیف",
       "price": 185000,
-      "image": "images/products/cheesecake.jpg",
+      "image": "images/products/cheesecake.webp",
       "available": true,
       "featured": true
     },
@@ -196,7 +196,7 @@
       "name": "براونی شکلاتی",
       "description": "کیک شکلاتی با بافت نرم و غنی",
       "price": 145000,
-      "image": "images/products/brownie.jpg",
+      "image": "images/products/brownie.webp",
       "available": true,
       "featured": false
     },
@@ -206,7 +206,7 @@
       "name": "تیرامیسو",
       "description": "دسر ایتالیایی با قهوه و ماسکارپونه",
       "price": 195000,
-      "image": "images/products/tiramisu.jpg",
+      "image": "images/products/tiramisu.webp",
       "available": true,
       "featured": true
     },
@@ -216,7 +216,7 @@
       "name": "صبحانه انگلیسی",
       "description": "تخم مرغ، سوسیس، لوبیا و نان تست",
       "price": 285000,
-      "image": "images/products/english-breakfast.jpg",
+      "image": "images/products/english-breakfast.webp",
       "available": true,
       "featured": true
     },
@@ -226,7 +226,7 @@
       "name": "املت",
       "description": "املت گوجه فرنگی با نان تازه",
       "price": 145000,
-      "image": "images/products/omelet.jpg",
+      "image": "images/products/omelet.webp",
       "available": true,
       "featured": false
     },
@@ -236,7 +236,7 @@
       "name": "صبحانه ایرانی",
       "description": "پنیر، گردو، خیار، گوجه و نان تازه",
       "price": 195000,
-      "image": "images/products/iranian-breakfast.jpg",
+      "image": "images/products/iranian-breakfast.webp",
       "available": true,
       "featured": false
     },
@@ -246,7 +246,7 @@
       "name": "پنکیک",
       "description": "پنکیک نرم همراه عسل و میوه",
       "price": 175000,
-      "image": "images/products/pancake.jpg",
+      "image": "images/products/pancake.webp",
       "available": true,
       "featured": true
     },
@@ -256,7 +256,7 @@
       "name": "آووکادو تست",
       "description": "نان تست با آووکادو و چاشنی مخصوص",
       "price": 225000,
-      "image": "images/products/avocado-toast.jpg",
+      "image": "images/products/avocado-toast.webp",
       "available": true,
       "featured": false
     }
