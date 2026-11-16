@@ -1,0 +1,264 @@
+{
+  "cafe": {
+    "name": "SIANA",
+    "subtitle": "A Taste of Coffee",
+    "description": "تجربه‌ای متفاوت از طعم قهوه و لحظه‌های خوشمزه",
+    "logo": "images/logo.jpg",
+    "background": "images/background.jpg",
+    "currency": "تومان",
+    "phone": "",
+    "address": "",
+    "instagram": "",
+    "theme": {
+      "primary": "#c49a6c",
+      "background": "#171411",
+      "surface": "#24201b",
+      "text": "#f2e8da",
+      "muted": "#aa9b89"
+    }
+  },
+  "categories": [
+    {
+      "id": "hot-coffee",
+      "name": "قهوه گرم"
+    },
+    {
+      "id": "cold-drinks",
+      "name": "نوشیدنی سرد"
+    },
+    {
+      "id": "tea",
+      "name": "چای و دمنوش"
+    },
+    {
+      "id": "desserts",
+      "name": "کیک و دسر"
+    },
+    {
+      "id": "breakfast",
+      "name": "صبحانه"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "hot-coffee",
+      "name": "اسپرسو",
+      "description": "قهوه غلیظ با عطر و طعم اصیل",
+      "price": 85000,
+      "image": "images/products/espresso.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "category": "hot-coffee",
+      "name": "آمریکانو",
+      "description": "اسپرسو همراه با آب داغ",
+      "price": 105000,
+      "image": "images/products/americano.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "category": "hot-coffee",
+      "name": "کاپوچینو",
+      "description": "ترکیب اسپرسو، شیر و فوم شیر",
+      "price": 145000,
+      "image": "images/products/cappuccino.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "category": "hot-coffee",
+      "name": "لاته",
+      "description": "اسپرسو با شیر بخار داده شده",
+      "price": 155000,
+      "image": "images/products/latte.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "category": "hot-coffee",
+      "name": "موکا",
+      "description": "ترکیب قهوه، شیر و شکلات",
+      "price": 165000,
+      "image": "images/products/mocha.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "category": "hot-coffee",
+      "name": "کارامل ماکیاتو",
+      "description": "اسپرسو، شیر و سیروپ کارامل",
+      "price": 175000,
+      "image": "images/products/caramel-macchiato.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "category": "cold-drinks",
+      "name": "آیس لاته",
+      "description": "قهوه اسپرسو و شیر سرد همراه یخ",
+      "price": 165000,
+      "image": "images/products/iced-latte.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "category": "cold-drinks",
+      "name": "آیس آمریکانو",
+      "description": "اسپرسو و آب سرد همراه یخ",
+      "price": 115000,
+      "image": "images/products/iced-americano.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "category": "cold-drinks",
+      "name": "آیس موکا",
+      "description": "ترکیب قهوه، شکلات و شیر سرد",
+      "price": 175000,
+      "image": "images/products/iced-mocha.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "category": "cold-drinks",
+      "name": "لیموناد",
+      "description": "نوشیدنی خنک با لیموی تازه",
+      "price": 110000,
+      "image": "images/products/lemonade.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "category": "cold-drinks",
+      "name": "موهیتو",
+      "description": "ترکیب نعناع، لیمو و یخ",
+      "price": 135000,
+      "image": "images/products/mojito.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 12,
+      "category": "tea",
+      "name": "چای سیاه",
+      "description": "چای ایرانی با عطر دلنشین",
+      "price": 65000,
+      "image": "images/products/black-tea.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 13,
+      "category": "tea",
+      "name": "ماسالا چای",
+      "description": "چای هندی با شیر و ادویه‌های معطر",
+      "price": 135000,
+      "image": "images/products/masala-chai.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 14,
+      "category": "tea",
+      "name": "دمنوش گیاهی",
+      "description": "ترکیبی از گیاهان معطر و طبیعی",
+      "price": 95000,
+      "image": "images/products/herbal-tea.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 15,
+      "category": "desserts",
+      "name": "چیزکیک",
+      "description": "کیک پنیر خامه‌ای با بافت لطیف",
+      "price": 185000,
+      "image": "images/products/cheesecake.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 16,
+      "category": "desserts",
+      "name": "براونی شکلاتی",
+      "description": "کیک شکلاتی با بافت نرم و غنی",
+      "price": 145000,
+      "image": "images/products/brownie.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 17,
+      "category": "desserts",
+      "name": "تیرامیسو",
+      "description": "دسر ایتالیایی با قهوه و ماسکارپونه",
+      "price": 195000,
+      "image": "images/products/tiramisu.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 18,
+      "category": "breakfast",
+      "name": "صبحانه انگلیسی",
+      "description": "تخم مرغ، سوسیس، لوبیا و نان تست",
+      "price": 285000,
+      "image": "images/products/english-breakfast.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 19,
+      "category": "breakfast",
+      "name": "املت",
+      "description": "املت گوجه فرنگی با نان تازه",
+      "price": 145000,
+      "image": "images/products/omelet.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 20,
+      "category": "breakfast",
+      "name": "صبحانه ایرانی",
+      "description": "پنیر، گردو، خیار، گوجه و نان تازه",
+      "price": 195000,
+      "image": "images/products/iranian-breakfast.jpg",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": 21,
+      "category": "breakfast",
+      "name": "پنکیک",
+      "description": "پنکیک نرم همراه عسل و میوه",
+      "price": 175000,
+      "image": "images/products/pancake.jpg",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": 22,
+      "category": "breakfast",
+      "name": "آووکادو تست",
+      "description": "نان تست با آووکادو و چاشنی مخصوص",
+      "price": 225000,
+      "image": "images/products/avocado-toast.jpg",
+      "available": true,
+      "featured": false
+    }
+  ]
+}
